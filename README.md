@@ -1,6 +1,7 @@
 # ecommerce_app
 
-ecommerce_app
+ecommerce_app 
+using flutter firebase 
 
 ## Getting Started
 
